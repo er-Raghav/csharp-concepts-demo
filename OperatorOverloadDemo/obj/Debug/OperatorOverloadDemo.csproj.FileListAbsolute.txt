@@ -1,0 +1,7 @@
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\bin\Debug\OperatorOverloadDemo.exe.config
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\bin\Debug\OperatorOverloadDemo.exe
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\bin\Debug\OperatorOverloadDemo.pdb
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\obj\Debug\OperatorOverloadDemo.csprojAssemblyReference.cache
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\obj\Debug\OperatorOverloadDemo.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\obj\Debug\OperatorOverloadDemo.exe
+C:\Users\Raghav Agrawal\source\repos\OperatorOverloadDemo\OperatorOverloadDemo\obj\Debug\OperatorOverloadDemo.pdb
