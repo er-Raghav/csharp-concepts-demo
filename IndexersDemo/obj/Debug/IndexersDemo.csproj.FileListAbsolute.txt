@@ -1,0 +1,7 @@
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.exe.config
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.csprojAssemblyReference.cache
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\Raghav Agrawal\source\repos\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.pdb
