@@ -18,6 +18,21 @@ namespace LINQDemo
             //Element Operator
             ElementOperators.getemployee();
 
+            //Group Operator
+            GroupOperator.getemployeesbydepartment();
+
+
+            //Set Operators
+
+            SetOperators.getDistinctCountries();
+            SetOperators.getExceptCountries();
+            SetOperators.getInterseptCountries();
+            SetOperators.getUnionCountries();
+
+
+            //Join Operator
+
+            JoinOperator.getemployeewithdept();
 
             Console.Read();
 

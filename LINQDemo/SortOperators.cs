@@ -57,4 +57,6 @@ namespace LINQDemo
 
         public string dept { get; set; }
     }
+
+    
 }

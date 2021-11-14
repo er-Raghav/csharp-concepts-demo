@@ -29,7 +29,33 @@ namespace LINQDemo
 
 
             //Single
-            var singlename = emp.Where(a => a.dept == "Payroll").Single(b => b.dept =="HR");
+            int[] numbers = { 1, 2, 3 };
+            //var n = numbers.Single(s => s % 2 == 0);
+            var n1 = numbers.SingleOrDefault(s => s % 2 == 0);
+
+
+            //Skip Operator
+            int[] values = { 20, 30, 40, 13, 10, 60, 90, 80, 30 };
+
+            var seq = values.Skip(4);
+
+            foreach (var item in seq)
+            {
+                Console.WriteLine(item);
+            }
+
+            //SkipWhile Operator
+
+            var skipwhileseq = values.SkipWhile(s => s % 2 == 0);       //It will skip all elemements till condition stands true
+
+            //Take
+
+            var takeseq = values.Take(4);
+
+
+            //TakeWhile
+            var takewhileseq = values.TakeWhile(s => s % 2 == 0);        //It will Take all elemements till condition stands true
+
         }
 
     }
