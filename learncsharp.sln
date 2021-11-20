@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignDemo", "Sing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQDemo", "LINQDemo\LINQDemo.csproj", "{F1EE69C7-CAF1-4969-910E-DAC9D98A4738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPatterns", "DecoratorPatterns\DecoratorPatterns.csproj", "{BFC5F047-3398-449A-9996-446A48F19019}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F1EE69C7-CAF1-4969-910E-DAC9D98A4738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1EE69C7-CAF1-4969-910E-DAC9D98A4738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1EE69C7-CAF1-4969-910E-DAC9D98A4738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFC5F047-3398-449A-9996-446A48F19019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC5F047-3398-449A-9996-446A48F19019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC5F047-3398-449A-9996-446A48F19019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC5F047-3398-449A-9996-446A48F19019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
